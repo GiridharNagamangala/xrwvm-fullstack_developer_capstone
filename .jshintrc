@@ -3,5 +3,6 @@
   "node": true,
   "asi": true,
   "expr": true,
-  "laxcomma": true
+  "laxcomma": true,
+  "sub": true
 }
